@@ -10,8 +10,7 @@ wiki_options = {
 }
 Precious::App.set(:wiki_options, wiki_options)
 
-
-## Basic comfirmation
+## BASIC comfirmation
 module Precious
   class App < Sinatra::Base
     use Rack::Auth::Basic, 'Private Wiki' do |username, password|
