@@ -1,4 +1,4 @@
-Welcome to Makino Lab Wiki!
+Welcome to Freesia Wiki!
 
 ## Anybody can create and edit wiki pages.
 
